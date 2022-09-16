@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/abstract-low-poly-connection-lines-digital-technology-background_1017-25550.jpg?w=1380&t=st=1663314656~exp=1663315256~hmac=86cb3adaf01dab65683712cb82e1a84dcb1fe055e25a3d47757b5d6ad45fd6f6)](https://rishavchanda.io)
+[![MasterHead](https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_960_720.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lovepreet Singh</h1>
 <h3 align="center">Aspiring Data Scientist and Statistician</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
