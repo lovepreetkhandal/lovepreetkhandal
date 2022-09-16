@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Machine learning, and Deep Learning projects**
 
-- 🌱 I’m currently learning **NLP, FastAPI, and cloud servers**
+- 🌱 I’m currently learning **NLP, FastAPI, Tableau and AWS**
 
 - 📫 How to reach me **lovepreetsinghlsu@gmail.com**
 
