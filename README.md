@@ -9,7 +9,7 @@
 
 
 
-<img align="right" alt="Coding" width="350" height = "300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
