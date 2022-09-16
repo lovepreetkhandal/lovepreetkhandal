@@ -1,4 +1,4 @@
-[![MasterHead](https://assets.thehansindia.com/h-upload/2022/04/23/1288605-artificial-intelligence.webp)](https://rishavchanda.io)
+[![MasterHead](https://data.europa.eu/sites/default/files/highlights/DGA%20image_thumbnail.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lovepreet Singh</h1>
 <h3 align="center">Aspiring Data Scientist and Statistician</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
