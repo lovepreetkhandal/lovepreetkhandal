@@ -12,7 +12,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovepreetkhandal&label=Profile%20views&color=0e75b6&style=flat" alt="lovepreetkhandal" /> </p>
 
-- 🔭 I’m currently working on **Machine learning, and Deep Learning projects**
+- 🔭 I’m currently working on **Machine learning, and Deep 
+Learning projects**
 
 - 🌱 I’m currently learning **NLP, FastAPI, Tableau and AWS**
 
