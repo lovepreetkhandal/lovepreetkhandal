@@ -29,8 +29,7 @@ and Deep Learning projects
 
 - ⚡ : Fun fact: I love statistics
 
-<h3 align="left">LinkdIn Profile:</h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lovepreet-singh-lsu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/lovepreet-singh-lsu?trk=profile-badge">Lovepreet Singh</a></div>
+
               
 
 
