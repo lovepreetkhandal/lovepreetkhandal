@@ -23,7 +23,7 @@ and Statistician
 - 🔭 : I’m currently working on Machine learning, 
 and Deep Learning projects
 
-- 🌱 : I’m currently learning NLP, FastAPI, Tableau and AWS
+- 🌱 : I’m currently learning NLP and AWS
 
 - 📫 : Email: lovepreetsinghlsu@gmail.com
 
